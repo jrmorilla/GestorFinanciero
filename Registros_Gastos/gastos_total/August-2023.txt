@@ -1,0 +1,29 @@
+- 2/August/2023 ---- 5.33 euros ---- Ocio
+- 2/August/2023 ---- 4.4 euros ---- Ocio
++ 6/August/2023 ---- 3.0 euros ---- Otros
+- 6/August/2023 ---- 10.0 euros ---- Gasolina
+- 6/August/2023 ---- 10.0 euros ---- Gasolina
+- 6/August/2023 ---- 12.75 euros ---- Comer Fuera
+- 6/August/2023 ---- 5.4 euros ---- Ocio
+- 6/August/2023 ---- 22.9 euros ---- Libros
+- 6/August/2023 ---- 0.4 euros ---- Ocio
+- 6/August/2023 ---- 4.5 euros ---- Comer Fuera
+- 6/August/2023 ---- 4.56 euros ---- Comer Fuera
+- 7/August/2023 ---- 88.86 euros ---- Comida
+- 10/August/2023 ---- 22.0 euros ---- Salud-higiene
+- 11/August/2023 ---- 49.98 euros ---- Regalo
+- 11/August/2023 ---- 1.79 euros ---- Ocio
+- 13/August/2023 ---- 7.54 euros ---- Ocio
+- 13/August/2023 ---- 4.7 euros ---- Alimentacion
+- 15/August/2023 ---- 17.65 euros ---- Ocio
+- 17/August/2023 ---- 1.0 euros ---- Alimentacion
+- 19/August/2023 ---- 14.8 euros ---- Ocio
+- 20/August/2023 ---- 14.45 euros ---- Comer Fuera
+- 22/August/2023 ---- 2.0 euros ---- Comida
+- 22/August/2023 ---- 3.92 euros ---- Transporte
+- 22/August/2023 ---- 3.85 euros ---- Ocio
+- 24/August/2023 ---- 2.8 euros ---- Alimentacion
+- 25/August/2023 ---- 60.0 euros ---- Viaje
+- 30/August/2023 ---- 503.0 euros ---- Viaje
+- 30/August/2023 ---- 8.1 euros ---- Comer Fuera
++ 30/August/2023 ---- 1469.0 euros ---- Nomina
